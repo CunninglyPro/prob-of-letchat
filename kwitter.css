@@ -1,0 +1,38 @@
+body {
+    background: url("bg.png");
+    background-position: center;
+    background-size: cover;
+}
+
+.my_div {
+    border-radius: 10px;
+    background: linear-gradient(lightblue, lightgreen);
+    padding: 20px;
+    margin: 10px;
+    width: 350px;
+    height: auto;
+}
+
+.header {
+    color: white;
+    font-family: 'Yeon Sung';
+    font-size: 45px;
+    margin-top: 80px;
+}
+
+.header img {
+    width: 80px;
+    margin-left: -15px;
+}
+
+.logo {
+    height: 80px;
+	width: 80px;
+	margin-top: 30px;
+	border-radius: 40px;
+}
+
+#login_button {
+	width: 80%;
+	border-radius: 15px;
+}
